@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # multi_robot_sim
 3D simulation of multi robot (TurtleBot) system on Gazebo
 
@@ -15,3 +16,6 @@ To launch the package:
 
 If you want to change world or map:  
 `roslaunch multi_robot_sim robots_gazebo_rviz.launch world_file:=<PATH_TO_WORLD>/world_name.world map_file:=<PATH_TO_MAP>/map_name.yaml`
+=======
+# sistema-alocador-para-robos
+>>>>>>> fb40e00abea2bf3d9de7438194bb76385e4ec68f
